@@ -1,0 +1,74 @@
+2024-03-28 Thursday 16:17:33 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:17:33 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:17:33 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:17:47 - MainThread - INFO - источник краша...
+2024-03-28 Thursday 16:17:47 - MainThread - ERROR - Произошла ошибка в файле бота:Traceback (most recent call last):
+  File "G:\Sergey\Development\Air Conditioner\reductor\Messenger\bot_vk.py", line 78, in start
+    msg, keyboard = event_control.handler_msg_vk()
+  File "G:\Sergey\Development\Air Conditioner\reductor\Events\event_controller.py", line 87, in handler_msg_vk
+    answer, key_board = msg_handler.handler()
+TypeError: cannot unpack non-iterable NoneType object
+
+2024-03-28 Thursday 16:17:47 - MainThread - INFO - Перезапуск...
+2024-03-28 Thursday 16:17:52 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:17:52 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:24:14 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:24:14 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:24:14 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:28:08 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:28:08 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:28:08 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:28:11 - MainThread - INFO - источник краша...
+2024-03-28 Thursday 16:28:11 - MainThread - ERROR - Произошла ошибка в файле бота:Traceback (most recent call last):
+  File "G:\Sergey\Development\Air Conditioner\reductor\Messenger\bot_vk.py", line 78, in start
+    msg, keyboard = event_control.handler_msg_vk()
+  File "G:\Sergey\Development\Air Conditioner\reductor\Events\event_controller.py", line 87, in handler_msg_vk
+    answer, key_board = msg_handler.handler()
+TypeError: cannot unpack non-iterable NoneType object
+
+2024-03-28 Thursday 16:28:11 - MainThread - INFO - Перезапуск...
+2024-03-28 Thursday 16:28:16 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:28:16 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:30:22 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:30:22 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:30:22 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:30:26 - MainThread - INFO - источник краша...
+2024-03-28 Thursday 16:30:26 - MainThread - ERROR - Произошла ошибка в файле бота:Traceback (most recent call last):
+  File "G:\Sergey\Development\Air Conditioner\reductor\Messenger\bot_vk.py", line 78, in start
+    msg, keyboard = event_control.handler_msg_vk()
+  File "G:\Sergey\Development\Air Conditioner\reductor\Events\event_controller.py", line 87, in handler_msg_vk
+    answer, key_board = msg_handler.handler()
+TypeError: cannot unpack non-iterable NoneType object
+
+2024-03-28 Thursday 16:30:26 - MainThread - INFO - Перезапуск...
+2024-03-28 Thursday 16:30:31 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:30:31 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:31:21 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:31:21 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:31:21 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:31:25 - MainThread - INFO - Отправлено сообщение пользователю 0
+2024-03-28 Thursday 16:32:43 - MainThread - INFO - Отправлено сообщение пользователю 0
+2024-03-28 Thursday 16:36:04 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:36:04 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:36:05 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:36:16 - MainThread - INFO - Отправлено сообщение пользователю 0
+2024-03-28 Thursday 16:36:30 - MainThread - INFO - источник краша...
+2024-03-28 Thursday 16:36:30 - MainThread - ERROR - Произошла ошибка в файле бота:Traceback (most recent call last):
+  File "G:\Sergey\Development\Air Conditioner\reductor\Messenger\bot_vk.py", line 78, in start
+    msg, keyboard = event_control.handler_msg_vk()
+  File "G:\Sergey\Development\Air Conditioner\reductor\Events\event_controller.py", line 87, in handler_msg_vk
+    answer, key_board = msg_handler.handler()
+TypeError: cannot unpack non-iterable NoneType object
+
+2024-03-28 Thursday 16:36:30 - MainThread - INFO - Перезапуск...
+2024-03-28 Thursday 16:36:35 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:36:35 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:38:41 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:38:41 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:38:41 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:39:05 - MainThread - INFO - Отправлено сообщение пользователю 0
+2024-03-28 Thursday 16:42:52 - MainThread - INFO - Запуск бота....
+2024-03-28 Thursday 16:42:52 - MainThread - INFO - Запуск бота группы.
+2024-03-28 Thursday 16:42:52 - MainThread - INFO - Запущен основной цикл бота группы
+2024-03-28 Thursday 16:44:08 - MainThread - INFO - Отправлено сообщение пользователю 0
+2024-03-28 Thursday 16:44:20 - MainThread - INFO - Отправлено сообщение пользователю 0
